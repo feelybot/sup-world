@@ -1,0 +1,12 @@
+body {
+  background-color: #f0f0f0;
+  font-size: 16px;
+  color: deeppink;
+}
+h1 {
+  font-size: 3rem;
+  color: blueviolet;
+}
+p {
+  font-size: 2rem;
+}
